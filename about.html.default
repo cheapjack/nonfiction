@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Domestic Science: Adventures in Data and Science</title>
+	<meta name="author" content="Ross Dalziel aka @cheapjack">
+	<meta name="description" content="Domestic Science are artists explore the data and science of everyday life using interactive non-fiction, text adventures in art, unpopular science and technology">
+	<link href="bootstrap.min.css" rel="stylesheet">
+    <!--<link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+-->
+    <link href="jumbotron-narrow.css" rel="stylesheet">
+ 
+ 
+</head>
+ 
+<body>
+ 
+    <div class="container">
+        <div class="header">
+            <nav>
+                <ul class="nav nav-pills pull-right">
+                    <li role="presentation" ><a href="InF.html">Home</a>
+                    </li>
+                    <li role="presentation" class="active"><a href="mailto:ross@cheapjack.org.uk?Subject=Hello%20Domestic%20Science">About Us</a>
+                    <!--<li role="presentation"><a href="mailto:ross@cheapjack.org.uk?Subject=Hello%20Domestic%20Science">Contact Us</a>-->
+                    </li>
+                    <!--<li role="presentation"><a href="showSignUp">Sign Up</a>
+                    </li>-->
+                </ul>
+            </nav>
+            <h3 class="text-muted">DomesticScience</h3>
+        </div>
+
+ 
+        <div class="jumbotron">
+            <h2>About Us</h2>
+            <p class="lead">
+	<p><strong>Domestic Science</strong> was setup by artists <a href="http://glennboulter.net/">Glenn Boulter</a>, <a href="https://cheapjack.org.uk">Ross Dalziel</a> and <a href="http://slyrabbit.net">Hwa Young Jung</a> to explore a playful notion of what the Domestic could be. Our key approach is to not use science and technology as a subject for our practice but rather explore it as a <strong>culture</strong>. 
+
+<!--<br>We are interested in what skills and common knowledge can be constituted as <strong>domestic science</strong> today. In the 1970's this may have been how to cook well with some gender role assumptions included. In the 21st Century this could mean internet security and digital identity, how to play minecraft, understand economic growth, historic water levels or monitor air quality for dangers of fracking.-->
+<!-- Basic fluid circular image-->
+		<div class="container-fluid">
+        <div class="row">
+		<div class="col-xs-6">
+            <img class="img-responsive img-circle center-block" src="images/crewlove1.png" width="200" />
+        	</div>
+<p>We have over 10 years experience co-founding, supporting, developing and participating in innovative grass-roots organisations in technical, artist-led and maker cultures.</p>
+<p>As directors of organisations like <a href="http://www.digitalmedialabs.org/">Digital Media Labs</a>, <a href="http://octopuscollective.org/">Octopus Collective</a>,</p>
+<!-- Basic fluid circular image-->
+		<div class="container-fluid">
+        <div class="row">
+		<div class="col-xs-6">
+            <img class="img-responsive img-circle center-block" src="images/crewlove2.png" width="200" />
+        	</div>
+</p><p><a href="http://re-dock.org/">Re-Dock</a> and <a href="http://soundnetwork.org.uk">SoundNetwork</a> <br>we use our unique artistic vision to foster critical collaboration, participation and generate sustainable havens for creative work that remain open and engaging to the public.</p>
+
+<!-- Basic fluid circular image-->
+		<div class="container-fluid">
+        <div class="row">
+		<div class="col-xs-6">
+            <img class="img-responsive img-circle center-block" src="images/crewlove3.png" width="200" />
+        	</div>
+<p>Our methodology is building relationships with people as co-researchers. We have a life-long learning attitude towards education, and attempt to bring in critical thinking to technology, science and arts cultures. We see facilitation as a core creative part of our artistic practice and consider participants as fellow researchers.</p>
+</div>
+ <div class = "row marketing">
+	<div class="col-lg-6">
+		<!--
+		<h3>Where did it all start?</h3>
+		<p>Glenn and Ross developed a project with <strong>Millom Primary School</strong> for <a href="http://www.octopuscollective.org/">Octopus Collective</a>, the <a href="http://cheapjack.github.io/2012/07/12/last-month-i-worked-with-the-ever-excellent">Black Coombe Text Adventures</a> using <a href="http://inform7.com/">Inform</a> in 2012. Later on they worked with Hwa Young for <a href="http://re-dock.org/">Re-Dock</a> and their <a href="http://textadventuretime.co.uk/">Text Adventure Time</a> project. Hwa Young made an adventure about how it all went <a href="http://textadventuretime.co.uk/wb-2016/">which you can play here</a><p>Most recently Hwa Young made <a href="http://drinkme.textadventuretime.co.uk/">Beba-Me | Drink-Me</a> in Brazil.</p>
+        </div>
+	</div>
+	<div class="row marketing">
+            <div class="col-lg-6">
+                <h3>What have we made so far?</h3>
+                <p>
+			<p>A <a href="http://domesticscience.org.uk/walter.html">Walter Benjamin Text Adventure Guide</a> for TATE Collective Liverpool to understand the work of art in the age of mechanical reproduction.</p>
+			<p><a href="http://textadventuretime.co.uk/play.html">Northern Powerhouse</a> is a Text Adventure that inspired Interactive Non-Fiction built for a project by <a href="http://re-dock.org/">Re-Dock</a> exploring young peoples vision of the places they live and their possible future through dystopian sci-fi and co-design: it is fiction but it reflects on reality today.</p>
+			<p>An <a href="http://soundnetwork.org.uk/Twinery/EdgeHill.html">Adventure about the Rainhill Trials</a> for METAL in Liverpool to understand the history of rail travel</p>
+		<p>A <a href="/codeforliverpool.html">Documentation Story</a> for <a href="http://codeforliverpool.org/">Code For Liverpool</a> with it's own <a href="https://github.com/Liverpool-UK/codeforliverpool-stories">Repo on the Liverpool-UK github</a> to understand what it means for a city to have a github account.</p>
+
+           <h3>Ok Sparks!</h3>
+		<h3>Warning! Non-Downloadable Content: You Have To Be There!</h3>
+                <p>
+			<p><a href="http://slyrabbit.net/ok-sparks/">Ok Sparks!</a> is an art project by <strong>Domestic Science</strong>, <a href="http://slyrabbit.net/">Hwa Young Jung</a>, <a href="http://glennboulter.net/">Glenn Boulter</a> and <a href="http://cheapjack.org.uk">Ross Dalziel</a> to understand the history of <a href="http://www.nationaltrust.org.uk/wray-castle">Wray Castle</a> through mobile text adventures and investigative games running alongside social events with the <a href="http://www.fars.org.uk/">Furness Amateur Radio Society</a> and the <a href="http://www.fba.org.uk/">Freshwater Biolgical Association</a>. You can <a target="_blank" href="http://slyrabbit.net/wray-text-adventure/">play the game</a> that <strong>Glenn</strong> made at <a target="_blank" href="https://lpoolmakefest.org/">Liverpool MakeFest</a> this weekend <strong>Saturday 25th June 2016</strong>, you just need a <a target="_blank" href="https://www.eventbrite.co.uk/e/liverpool-makefest-2016-tickets-20968525424">Ticket</a> and to <a target="_blank" href="https://lpoolmakefest.org/portfolio/domesticscience-interactive-non-fiction/">find us</a>
+</p>
+	<h3>Research</h3>
+		<p>All of our research involves collaborative work and prototyping to make things like <a href="http://github.com/cefn/avatap">Avatap</a> which we made with <a href="http://start.shrimping.it/">Shrimping.It</a> and <a href="http://github.com/cheapjack/RF-Craft">RF-Craft</a> which we then use to engage with the public. We also try to be critical in the way we build and use such tools and make sure they consider the technical and social contexts in which they are developed and where they are used and with whom. This kind of thinking led to the <a href="http://criticalkits.re-dock.org/">Critical-kits Symposium</a> we worked on with <a href="http://re-dock.org/">Re-Dock</a>
+		<p>We are currently running research workshops and hackdays where we experiment and develop tools so everyone can have non-fiction adventures. You can play an <a target="_blank" href="http://domesticscience.org.uk/Non-FictionPreHack.html">adventure about our last workshop/pre-hack here</a>. Tweet us <a target="_blank" href="https://twitter.com/DomesticaSci">@DomesticaSci</a> if you want to get involved and watch things like the <a target="_blank" href="http://doesliverpool.com">DoESLiverpool</a> <a target="_blank" href="http://groups.google.com/group/DoES-Liverpool">Google Group</a> for further events!</p>-->
+	<!--<p>You can <a target="_blank" href="http://slyrabbit.net/wray-text-adventure/">play the game</a> that <strong>Glenn</strong> made at <a target="_blank" href="https://lpoolmakefest.org/">Liverpool MakeFest</a> this weekend <strong>Saturday 25th June 2016</strong>, you just need a <a target="_blank" href="https://www.eventbrite.co.uk/e/liverpool-makefest-2016-tickets-20968525424">Ticket</a> and to <a target="_blank" href="https://lpoolmakefest.org/portfolio/domesticscience-interactive-non-fiction/">find us</a></p>-->
+</div>
+<!-- 
+        <div class="row marketing">
+            <div class="col-lg-6">
+                <h3>Who is in space today?</h3>
+                <p>
+		<ul>
+			<p>Well according to <a href="http://open-notify.org/Open-Notify-API/People-In-Space/">Open Notify</a> these people are up there:</p>
+			{% for name in names %}
+			<li>{{ name }}</li>
+			{% endfor %}
+		</ul>
+
+           <h3>Liverpool Weather</h3>
+                <p>
+		<ul>
+			{% for description in weather %}
+			<p>Well, from <a href="http://openweathermap.org/">what people are saying here</a> it looks like:</p>
+			<li>{{ description }}</li>
+			{% endfor %}
+		</ul>
+-->
+</p>
+<!--<h3>Sensor 1</h3>
+		<p>Insert Data Here</p>
+--></div>                
+	</div>
+
+ 
+        </div>
+ 
+        <footer class="footer">
+            <!--<p>&copy; <a href="http://portforward.tumblr.com">Portforward 2016</a></p>-->
+<img src="/DScienceLogoSmall.jpg" style="margin-left: auto; margin-right: auto; display: block;">      
+</div>
+</footer>
+ 
+    </div>
+</body>
+ 
+</html>
