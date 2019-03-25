@@ -58,11 +58,14 @@ void loop() {
     // use Keyboard.press to do a key combo
     // 3 is Black for menu, keycombo ( shift+Key w, 'KEY_LEFT_SHIFT' 'M' )
   else if (digitalRead(3)==LOW){
-    Keyboard.press(ctrlKey);
-    Keyboard.press('w');
-    delay(50);
-    Keyboard.releaseAll();   
-    delay(50);    
+    Keyboard.press(shiftKey);
+    Keyboard.press('W');
+    Keyboard.releaseAll();
+    delay(15);
+    //ctrl to exit
+    Keyboard.write(ctrlKey);
+    delay(50);   
+    //delay(50);    
   }
   else if (digitalRead(6)==LOW){
     // 6 is Red for shift+Tab, keycombo, Left ('left' 'Tab', '179' + 'KEY_LEFT_SHIFT')
@@ -71,7 +74,6 @@ void loop() {
     Keyboard.press(tabKey);
     delay(50);
     Keyboard.releaseAll();
-    delay(50);
     Keyboard.write(left);
     delay(50); 
   }
