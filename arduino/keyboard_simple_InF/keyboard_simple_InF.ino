@@ -2,6 +2,7 @@
 
 char shiftKey = KEY_LEFT_SHIFT;
 char tabKey = KEY_TAB;
+char ctrlKey = KEY_LEFT_CTRL
 
 void setup() {
   // make pins 2-5 inputs and turn on the 
@@ -11,6 +12,7 @@ void setup() {
   pinMode(2, INPUT_PULLUP);
   
   // 3 is Black for menu, keycombo ( shift+Key m, 'KEY_LEFT_SHIFT' 'M' )
+  // For bitsy 3/Black can become close window ( ctrlKey & Key W)
   pinMode(3, INPUT_PULLUP);
   
   // 4 is Yellow ('Down', '217')
